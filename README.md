@@ -1,3 +1,28 @@
+## Project Requirements
+
+### Building the Data Warehouse (Data Engineering)
+
+### Objective
+Develop a modern data warehouse using SQL Server to consolidate sales data from multiple sources, enabling analytical reporting and informed decision-making.
+
+### Specifications
+
+- **Data Sources**  
+  Import data from two source systems (ERP and CRM) provided as CSV files.
+
+- **Data Quality**  
+  Clean and resolve data quality issues before performing analysis.
+
+- **Integration**  
+  Combine data from both sources into a single, user-friendly data model optimized for analytical queries.
+
+- **Scope**  
+  Focus only on the latest available dataset. Data historization is not required.
+
+- **Documentation**  
+  Provide clear documentation of the data model to support business stakeholders and analytics teams.
+
+
 # Links to Project Tools
 
 - **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)**  
