@@ -1,5 +1,4 @@
-#<img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/cb91c052-b40f-4652-a6d9-9c0cfc1fe574" />
- Project Requirements
+# Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
