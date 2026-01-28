@@ -1,21 +1,23 @@
+# Links to Project Tools
 
+- **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)**  
+  Lightweight server used to host and store your SQL database.
 
-# Links to Project Tools :
-[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) :<br> - Lightweight Server for hositing your SQL database.
-<br>
-<br>
-[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/ssms/install/install?view=sql-server-ver16) :<br> - GUI for managing and interacting with databases.
-<br>
-<br>
-[Git Repository:](https://github.com/) :<br> - Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
-<br>
-<br>
-[DrawIO](https://www.drawio.com/) :<br> - Design data architecture, models, flows, and diagrams.
-<br>
-<br>
-[Notion](https://www.notion.com/) :<br> - All-in-one tool for project management and organization
+- **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/ssms/install/install?view=sql-server-ver16)**  
+  GUI tool for managing, querying, and interacting with databases.
 
+- **[Git Repository (GitHub)](https://github.com/)**  
+  Used to manage source code, track versions, and collaborate efficiently.
 
+- **[DrawIO](https://www.drawio.com/)**  
+  Used to design data architecture, models, workflows, and diagrams.
 
-# My Directory 
-[Notion ](https://www.notion.so/Data-warehouse-Project-2f62bcb0f33b80deb0cbfcfc7214cb9c?source=copy_link) :<br> -  I create a plan to work on the project with a clear view of the whole picture, and then break it into small tasks.
+- **[Notion](https://www.notion.com/)**  
+  All-in-one tool for project planning, management, and organization.
+
+---
+
+# My Directory
+
+- **[Notion Workspace](https://www.notion.so/Data-warehouse-Project-2f62bcb0f33b80deb0cbfcfc7214cb9c?source=copy_link)**  
+  I create an overall project plan with a clear view of the whole picture, then break it down into small, manageable tasks.
