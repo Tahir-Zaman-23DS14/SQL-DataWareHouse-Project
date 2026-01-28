@@ -18,4 +18,4 @@
 
 
 # My Directory 
-[Notion ](https://www.notion.so/Data-warehouse-Project-2f62bcb0f33b80deb0cbfcfc7214cb9c?source=copy_link) <br> -  I create a plan to work on the project with a clear view of the whole picture, and then break it into small tasks.
+[Notion ](https://www.notion.so/Data-warehouse-Project-2f62bcb0f33b80deb0cbfcfc7214cb9c?source=copy_link) :<br> -  I create a plan to work on the project with a clear view of the whole picture, and then break it into small tasks.
