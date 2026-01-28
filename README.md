@@ -13,4 +13,4 @@
 [DrawIO](https://www.drawio.com/): Design data architecture, models, flows, and diagrams.
 <br>
 <br>
-[Notion](): All-in-one tool for project management and organization
+[Notion]() : All-in-one tool for project management and organization
