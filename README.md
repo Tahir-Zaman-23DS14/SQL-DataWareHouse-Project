@@ -47,8 +47,9 @@ Develop a modern data warehouse using SQL Server to consolidate sales data from 
 - **[Notion Workspace](https://www.notion.so/Data-warehouse-Project-2f62bcb0f33b80deb0cbfcfc7214cb9c?source=copy_link)**  
   I create an overall project plan with a clear view of the whole picture, then break it down into small, manageable tasks.
   
-- **[Draw.io screenshots](https://github.com/Tahir-Zaman-23DS14/SQL-DataWareHouse-Project/blob/main/Helping%20Materials/data_architecture.png)**  
-  Used to design and visualize the project’s data architecture. Check the **Helping Materials** folder for screenshots of the data_architecture.
+- **[Download the Draw.io File](https://github.com/Tahir-Zaman-23DS14/SQL-DataWareHouse-Project/blob/main/Helping%20Materials/Data%20Architecture.drawio)**  
+  Used to design and visualize the project’s data architecture.  
+  Check the **Helping Materials** folder for **screenshots of the data architecture**.
 
 
   
