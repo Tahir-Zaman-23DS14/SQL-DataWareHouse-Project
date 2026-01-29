@@ -48,8 +48,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data from 
   I create an overall project plan with a clear view of the whole picture, then break it down into small, manageable tasks.
   
 - **[Draw.io file](https://www.drawio.com/)**  
-  Used to design and visualize the project’s data architecture. Check the **Helping Materials** folder for screenshots of the architecture,
-  or open the  link on your PC/laptop to explore the diagram interactively.
+  Used to design and visualize the project’s data architecture. Check the **Helping Materials** folder for screenshots of the data_architecture.
 
 
   
