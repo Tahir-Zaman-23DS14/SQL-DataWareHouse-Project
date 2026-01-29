@@ -1,6 +1,6 @@
 # Project Requirements
 
-### Building the Data Warehouse (Data Engineering)
+## Building the Data Warehouse (Data Engineering)
 
 ### Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data from multiple sources, enabling analytical reporting and informed decision-making.
@@ -22,6 +22,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data from 
 - **Documentation**  
   Provide clear documentation of the data model to support business stakeholders and analytics teams.
 
+---
 
 # Links to Project Tools
 
@@ -44,12 +45,9 @@ Develop a modern data warehouse using SQL Server to consolidate sales data from 
 
 # My Directory
 
-- **[Notion Workspace](https://www.notion.so/Data-warehouse-Project-2f62bcb0f33b80deb0cbfcfc7214cb9c?source=copy_link)**  
+- **Notion Workspace**  
   I create an overall project plan with a clear view of the whole picture, then break it down into small, manageable tasks.
-  
-- **[Download the Draw.io File](https://github.com/Tahir-Zaman-23DS14/SQL-DataWareHouse-Project/blob/main/Helping%20Materials/Data%20Architecture.drawio)**  
+
+- **[Download the Draw.io File](Helping Materials/Data_Architecture.drawio)**  
   Used to design and visualize the project’s data architecture.  
-  Check the **Helping Materials** folder for **screenshots of the data architecture**.
-
-
-  
+  Check the **Helping Materials** folder for screenshots of the data architecture.
