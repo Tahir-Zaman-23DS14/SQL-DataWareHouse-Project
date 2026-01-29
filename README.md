@@ -46,6 +46,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data from 
 
 - **[Notion Workspace](https://www.notion.so/Data-warehouse-Project-2f62bcb0f33b80deb0cbfcfc7214cb9c?source=copy_link)**  
   I create an overall project plan with a clear view of the whole picture, then break it down into small, manageable tasks.
-  - **[Notion Workspace](https://www.notion.so/Data-warehouse-Project-2f62bcb0f33b80deb0cbfcfc7214cb9c?source=copy_link)**  
+  
+- **[Notion Workspace](https://www.notion.so/Data-warehouse-Project-2f62bcb0f33b80deb0cbfcfc7214cb9c?source=copy_link)**  
   I create an overall project plan with a clear view of the whole picture, then break it down into small, manageable tasks.
   
