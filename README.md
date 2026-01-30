@@ -11,7 +11,7 @@ The mission is clear: **turn data into insight, not just tables**.
 
 The data architecture for this project follows the **Medallion Architecture** with **Bronze, Silver, and Gold layers**:
 
-![image alt](https://github.com/Tahir-Zaman-23DS14/SQL-DataWareHouse-Project/blob/d4e68993fb1b0967eef4dd2d55c8b9d939adb6e4/Helping%20Materials/data_architecture.png)
+![image alt]([https://github.com/Tahir-Zaman-23DS14/SQL-DataWareHouse-Project/blob/d4e68993fb1b0967eef4dd2d55c8b9d939adb6e4/Helping%20Materials/data_architecture.png](https://github.com/Tahir-Zaman-23DS14/SQL-DataWareHouse-Project/blob/2a048ced2df3507770e073f00c702d79c65e16a0/Helping%20Materials/Data%20Architecture.drawio%20Screen-Short.png))
 
 - **Bronze Layer:** Stores raw data as-is from the source systems. Data is ingested from CSV files into the SQL Server database.  
 - **Silver Layer:** This layer performs data cleansing, standardization, and normalization to prepare data for analysis.  
