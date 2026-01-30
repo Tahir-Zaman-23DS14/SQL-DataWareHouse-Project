@@ -11,7 +11,7 @@ The mission is clear: **turn data into insight, not just tables**.
 
 The data architecture for this project follows the **Medallion Architecture** with **Bronze, Silver, and Gold layers**:
 
-![Data Architecture](Helping Materials/data_architecture.png)
+[Data Architecture](Helping Materials/data_architecture.png)
 
 - **Bronze Layer:** Stores raw data as-is from the source systems. Data is ingested from CSV files into the SQL Server database.  
 - **Silver Layer:** This layer performs data cleansing, standardization, and normalization to prepare data for analysis.  
