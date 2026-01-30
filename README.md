@@ -11,7 +11,7 @@ The mission is clear: **turn data into insight, not just tables**.
 
 The data architecture for this project follows the **Medallion Architecture** with **Bronze, Silver, and Gold layers**:
 
-![image alt](https://github.com/Tahir-Zaman-23DS14/SQL-DataWareHouse-Project/blob/d4e68993fb1b0967eef4dd2d55c8b9d939adb6e4/Helping%20Materials/data_architecture.png)
+![image alt](https://github.com/Tahir-Zaman-23DS14/SQL-DataWareHouse-Project/blob/2a048ced2df3507770e073f00c702d79c65e16a0/Helping%20Materials/Data%20Architecture.drawio%20Screen-Short.png)
 
 - **Bronze Layer:** Stores raw data as-is from the source systems. Data is ingested from CSV files into the SQL Server database.  
 - **Silver Layer:** This layer performs data cleansing, standardization, and normalization to prepare data for analysis.  
@@ -65,9 +65,9 @@ Develop a modern data warehouse using SQL Server to consolidate sales data from 
 
 # My Directory
 
-- **Notion Workspace**  
+- [Notion Workspace](https://www.notion.so/Data-warehouse-Project-2f62bcb0f33b80deb0cbfcfc7214cb9c?source=copy_link)  
   I create an overall project plan with a clear view of the whole picture, then break it down into small, manageable tasks.
 
-- **[Download the Draw.io File](Helping Materials/Data_Architecture.drawio)**  
+- [Download the Draw.io File](https://github.com/Tahir-Zaman-23DS14/SQL-DataWareHouse-Project/blob/fecb50b5468c47562616f7434145cbec74bb0a48/Helping%20Materials/Data%20Architecture.drawio)
   Used to design and visualize the project’s data architecture.  
   Check the **Helping Materials** folder for screenshots of the data architecture.
