@@ -68,6 +68,6 @@ Develop a modern data warehouse using SQL Server to consolidate sales data from 
 - **Notion Workspace**  
   I create an overall project plan with a clear view of the whole picture, then break it down into small, manageable tasks.
 
-- **[Download the Draw.io File](Helping Materials/Data Architecture.drawio)**  
+- [Download the Draw.io File](Helping Materials/Data Architecture.drawio)
   Used to design and visualize the project’s data architecture.  
   Check the **Helping Materials** folder for screenshots of the data architecture.
